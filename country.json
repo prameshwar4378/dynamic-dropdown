@@ -1,0 +1,147 @@
+[
+  {
+  "id":"1",
+  "name":"India",
+  "parent_id":"0"
+ }, 
+
+ {
+  "id":"2",
+  "name":"USA",
+  "parent_id":"0"
+ }, 
+
+
+ {
+  "id":"3",
+  "name":"Canada",
+  "parent_id":"0"
+ }, 
+ {
+  "id":"4",
+  "name":"Australia",
+  "parent_id":"0"
+ }, 
+ {
+  "id":"5",
+  "name":"Uttar Pradesh",
+  "parent_id":"1"
+ }, 
+ {
+  "id":"6",
+  "name":"Uttarakhand",
+  "parent_id":"1"
+ }, 
+ {
+  "id":"7",
+  "name":"West Bengal",
+  "parent_id":"1"
+ },
+
+ {
+  "id":"8",
+  "name":"Los Angeles",
+  "parent_id":"2"
+ }, 
+ {
+  "id":"9",
+  "name":"New York",
+  "parent_id":"2"
+ }, 
+ {
+  "id":"10",
+  "name":"Nepal",
+  "parent_id":"3"
+ }, 
+ {
+  "id":"11",
+  "name":"Hong Kong",
+  "parent_id":"3"
+ }, 
+ {
+  "id":"12",
+  "name":"New York city",
+  "parent_id":"4"
+ }, 
+ {
+  "id":"13",
+  "name":"Dubai",
+  "parent_id":"4"
+ }, 
+ {
+  "id":"14",
+  "name":"Singapore",
+  "parent_id":"4"
+ }, 
+ {
+  "id":"15",
+  "name":"Kanpur",
+  "parent_id":"5"
+ }, 
+ {
+  "id":"16",
+  "name":"Allahabad",
+  "parent_id":"5"
+ }, 
+ {
+  "id":"17",
+  "name":"Varanasi",
+  "parent_id":"5"
+ }, 
+ {
+  "id":"18",
+  "name":"Ayodhya",
+  "parent_id":"6"
+ }, 
+ {
+  "id":"19",
+  "name":"San Francisco",
+  "parent_id":"6"
+ }, 
+ {
+  "id":"20",
+  "name":"San Diego",
+  "parent_id":"6"
+ }, 
+ {
+  "id":"21",
+  "name":"Toronto",
+  "parent_id":"7"
+ }, 
+ {
+  "id":"22",
+  "name":"Ottawa",
+  "parent_id":"7"
+ }, 
+ {
+  "id":"23",
+  "name":"Vancouver",
+  "parent_id":"8"
+ }, 
+ {
+  "id":"24",
+  "name":"Victoria",
+  "parent_id":"8"
+ }, 
+ {
+  "id":"25",
+  "name":"Sydney",
+  "parent_id":"9"
+ }, 
+ {
+  "id":"26",
+  "name":"Newcastle",
+  "parent_id":"9"
+ }, 
+ {
+  "id":"27",
+  "name":"City of Brisbane",
+  "parent_id":"10"
+ }, 
+ {
+  "id":"28",
+  "name":"Chine",
+  "parent_id":"10"
+ }
+]
+
